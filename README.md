@@ -2,5 +2,3 @@
 
 
 
-[![Result]](midtermResultVideo.mp4)
-
